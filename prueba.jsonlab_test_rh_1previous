@@ -1,7 +1,7 @@
 {
   "status":"success",
   "data":{
-    "all":{
+    "hostvars":{
       "hosts":{
         "arqopasr16.bank.es":{
           "system_code":"ARQOP",
